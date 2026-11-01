@@ -1,0 +1,16 @@
+msgid ""
+msgstr ""
+"Language: en_GB\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgctxt "#32000"
+msgid "Gemini API"
+msgstr ""
+
+msgctxt "#32001"
+msgid "API key"
+msgstr ""
+
+msgctxt "#32002"
+msgid "Get an API key from https://aistudio.google.com/app/api-keys"
+msgstr ""
