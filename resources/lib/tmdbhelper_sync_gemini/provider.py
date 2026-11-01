@@ -6,7 +6,7 @@ from tmdbhelper_sync_gemini.settings import GeminiSettings
 
 
 class Provider(SyncProvider):
-    interface_version = 3
+    interface_version = 4
     provider_id = 'gemini'
     display_name = 'Gemini'
     directory_item_class = GeminiDirectoryItem
