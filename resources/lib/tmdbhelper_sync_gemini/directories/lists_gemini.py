@@ -2,10 +2,10 @@ from xbmcgui import Dialog, INPUT_ALPHANUM
 from jurialmunkey.ftools import cached_property
 from tmdbhelper.lib.addon.dialog import BusyDialog
 from tmdbhelper.lib.addon.logger import kodi_log
-from tmdbhelper.lib.addon.plugin import get_localized
 from tmdbhelper.lib.addon.thread import ParallelThread
 from tmdbhelper.lib.items.directories.lists_default import ListDefault, ListProperties
 from tmdbhelper_sync_gemini.directories.mapper_items import GeminiItemMapper
+from tmdbhelper_sync_gemini.localization import get_localized
 
 
 class ListGeminiProperties(ListProperties):

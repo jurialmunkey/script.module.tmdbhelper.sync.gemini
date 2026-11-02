@@ -14,3 +14,15 @@ msgstr ""
 msgctxt "#32002"
 msgid "Get an API key from https://aistudio.google.com/app/api-keys"
 msgstr ""
+
+msgctxt "#32149"
+msgid "Gemini AI"
+msgstr ""
+
+msgctxt "#32150"
+msgid "Google Gemini AI requires a developer API key to use."
+msgstr ""
+
+msgctxt "#32151"
+msgid "Visit [B]{}[/B] to generate your key and then input into Gemini settings under the API keys section."
+msgstr ""

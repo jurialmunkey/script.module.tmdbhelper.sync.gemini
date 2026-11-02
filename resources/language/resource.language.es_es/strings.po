@@ -1,0 +1,33 @@
+# XBMC Media Center language file
+# Addon Name: TMDbHelper Gemini
+# Addon id: script.module.tmdbhelper.sync.gemini
+# Addon Provider: jurialmunkey
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC-Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: 2024-06-20 20:05+0000\n"
+"PO-Revision-Date: 2026-09-24 16:30-0400\n"
+"Last-Translator: 01xKeven\n"
+"Language-Team: Spanish - GTKing Phoenix TEAM\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgctxt "#32000"
+msgid "Gemini API"
+msgstr "API de Gemini"
+
+msgctxt "#32149"
+msgid "Gemini AI"
+msgstr "IA Gemini"
+
+msgctxt "#32150"
+msgid "Google Gemini AI requires a developer API key to use."
+msgstr "Google Gemini AI requiere una clave de desarrollador para su uso."
+
+msgctxt "#32151"
+msgid "Visit [B]{}[/B] to generate your key and then input into Gemini settings under the API keys section."
+msgstr "Visita [B]{}[/B] para generar tu clave e introdúcela en la configuración de Gemini bajo la sección de claves API."
